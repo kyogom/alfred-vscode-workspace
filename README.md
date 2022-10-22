@@ -1,6 +1,11 @@
 # Usage
+You can open Visual Studio Code workspace by Alfred
 
 ![alfredworkflowsample](https://user-images.githubusercontent.com/23183700/197317777-2dbccde9-91ae-4ce8-bb95-02d10315bdca.gif)
+
+# Requirements
+You need to store .code-workspace files in a folder. 
+This workflow just search .code-workspace file in the folder
 
 # Setup
 
