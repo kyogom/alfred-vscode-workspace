@@ -5,7 +5,7 @@ You can open Visual Studio Code workspace by Alfred
 
 # Requirements
 You need to store .code-workspace files in a folder. 
-This workflow just search .code-workspace file in the folder
+This workflow just search for .code-workspace file in the folder
 
 # Setup
 
