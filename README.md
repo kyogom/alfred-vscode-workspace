@@ -4,7 +4,7 @@
 
 # Setup
 
-1. Download workflow and install file.
+1. [Download workflow](https://github.com/kyogom/alfred-vscode-workspace/raw/main/workflow.alfredworkflow) and open.
 2. Edit workspace folder path in Scope Section ↓
 
 ![image](https://user-images.githubusercontent.com/23183700/197317833-e39d75c5-4934-45cc-b136-99c36a3e51b0.png)
